@@ -1,3 +1,6 @@
+
+[![NPM](https://nodei.co/npm/solr-client.png?downloads=true&stars=true)](https://nodei.co/npm/solr-client/)
+
 Please see [https://github.com/lbdremy/solr-node-client]
 
 Only add Query.customer(key, value)
