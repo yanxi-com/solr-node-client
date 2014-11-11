@@ -1,4 +1,4 @@
-[![NPM](https://nodei.co/npm/solr-client.png?downloads=true&stars=true)](https://nodei.co/npm/solr-client2/)
+[![NPM](https://nodei.co/npm/solr-client2.png?downloads=true&stars=true)](https://nodei.co/npm/solr-client2/)
 
 Please see https://github.com/lbdremy/solr-node-client
 
