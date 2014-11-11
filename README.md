@@ -1,8 +1,8 @@
-[![NPM] https://nodei.co/npm/solr-client.png?downloads=true&stars=true)](https://nodei.co/npm/solr-client2/
+[![NPM][https://nodei.co/npm/solr-client.png?downloads=true&stars=true)](https://nodei.co/npm/solr-client2/]
 
-Please see [https://github.com/lbdremy/solr-node-client]
+Please see https://github.com/lbdremy/solr-node-client
 
-Only add Query.customer(key, value)
+Seems above didn't have highlight support, Only add Query.customer(key, value)
 
 For example, you can use query below to highlight title:
 
